@@ -94,7 +94,8 @@ Ingrese el valor a convertir:
 El valor de 25,00 [USD] corresponde al valor final de 24931,25 [ARS].
 ```
 ## Execution
-<video controls src="images/execution.mp4" title="Title"></video>
+This video demonstrates the execution of the challenge and tests some of its uses:
+![execution.gif](images%2Fexecution.gif)
 
 ## Built With
 
