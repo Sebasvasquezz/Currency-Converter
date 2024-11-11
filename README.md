@@ -95,7 +95,7 @@ El valor de 25,00 [USD] corresponde al valor final de 24931,25 [ARS].
 ```
 ## Execution
 This video demonstrates the execution of the challenge and tests some of its uses:
-![execution.gif](images%2Fexecution.gif)
+![execution.gif](images/execution.gif)
 
 ## Built With
 
